@@ -3,8 +3,8 @@
 #include <ArduinoJson.h>
 
 // 1. KONFIGURASI WIFI
-const char* ssid = "AMARIA";      // Ganti dengan SSID Anda
-const char* password = "AMARIA1401";   // Ganti dengan password WiFi
+const char* ssid = "GANTI YGY";      // Ganti dengan SSID Anda
+const char* password = "KYY SAYANG AKANE";   // Ganti dengan password WiFi
 
 // 2. KAMUS LENGKAP (Semua 500+ kosakata)
 const char dictionary_json[] PROGMEM = R"rawliteral(
